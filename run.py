@@ -14,6 +14,9 @@ def multiply(x,y):
 	return x*y
 
 
-def multiply (x,y,z):
+def multiply2 (x,y,z):
 	return x*y*z
+
+def divide(x,y):
+	return x/y
 	
