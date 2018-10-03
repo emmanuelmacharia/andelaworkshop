@@ -17,3 +17,6 @@ def multiply(x,y):
 def multiply (x,y,z):
 	return x*y*z
 	
+def percentage(x,y):
+	return (x/y)*100
+	
