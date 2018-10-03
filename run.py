@@ -3,6 +3,9 @@ def add(x,y):
 		return y
 	elif y == 0:
 		return x
-		
+
 	return x+y
 
+def subtract(x,y):
+	return x-y
+	
